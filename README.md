@@ -1,2 +1,2 @@
-[![GitHub Stats](github-readme-stats-j2s8xkmkz-cyklon73s-projects.vercel.app/api?username=cyklon73&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=f0f6fc&hide_border=true)](https://github.com/cyklon73/)
-![Top Langs](github-readme-stats-j2s8xkmkz-cyklon73s-projects.vercel.app/api/top-langs/?username=cyklon73&langs_count=8&bg_color=0d1117&text_color=f0f6fc&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-j2s8xkmkz-cyklon73s-projects.vercel.app/api?username=cyklon73&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=f0f6fc&hide_border=true)](https://github.com/cyklon73/)
+![Top Langs](https://github-readme-stats-j2s8xkmkz-cyklon73s-projects.vercel.app/api/top-langs/?username=cyklon73&langs_count=8&bg_color=0d1117&text_color=f0f6fc&hide_border=true)
